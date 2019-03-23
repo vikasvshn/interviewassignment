@@ -26,4 +26,4 @@ Solution :
    Sample URL: http://localhost:8080/1021900/208600/20000
    Sample Output: {"Sophora":19,"Japanese zelkova":1,"eastern redcedar":1,"Chinese fringetree":1,"sweetgum":1,"silver maple":5,"Norway maple":70,"pin oak":17,"silver linden":2,"red maple":1,"willow oak":1,"American elm":1,"crab apple":1,"honeylocust":24,"Callery pear":5,"ginkgo":13,"swamp white oak":1,"tulip-poplar":2,"London planetree":17,"black cherry":1,"American linden":3,"Amur maple":4}
    
-   ![Screenshot](solution-diagram.png)
+   ![alt tag](https://github.com/vikasvshn/interviewassignment/blob/master/solution-diagram.png)
